@@ -1,4 +1,4 @@
-# Intelligent Transportation Systems (ITS) Analysis, Modeling and Simulation (AMS) Community of Practice 
+# Intelligent Transportation Systems (ITS) Analysis, Modeling and Simulation (AMS) Community of Practice (CoP)
 
 ## Objective
 The ITS AMS Community of Practice seeks to connect key ITS stakeholders, AMS stakeholders, and the United States Department of Transportation’s (USDOT) Federal Highway Administration (FHWA) to facilitate coordination and communication on the development and use of AMS tools in support of ITS AMS research and development.
@@ -9,13 +9,13 @@ ITS AMS stakeholders from all walks of life (including State and local agencies,
 John Hourdos - john.hourdos@dot.gov. 
 
 ## Notice
-This document is disseminated under the sponsorship of the U.S. Department of Transportation in the interest of information exchange. The U.S. Government assumes no liability for the use of the information contained in this document.
+This Community of Practice (CoP) is established under the sponsorship of the U.S. Department of Transportation in the interest of information exchange. The U.S. Government assumes no liability for the use of the information contained in this CoP.
 
 ## Non-Binding Contents
-Except for the statutes and regulations cited, the contents of this document do not have the force and effect of law and are not meant to bind the States or the public in any way. This document is intended only to provide information regarding existing requirements under the law or agency policies.
+Except for the statutes and regulations cited, the contents of this CoP do not have the force and effect of law and are not meant to bind the States or the public in any way. This CoP is intended only to provide information regarding existing requirements under the law or agency policies.
 
 ## Disclaimer for Product Names and Manufacturers
-The U.S. Government does not endorse products or manufacturers. Trademarks or manufacturers’ names appear in this document only because they are considered essential to the objective of the document. They are included for informational purposes only and are not intended to reflect a preference, approval, or endorsement of any one product or entity.
+The U.S. Government does not endorse products or manufacturers. Trademarks or manufacturers’ names appear in this CoP only because they are considered essential to the objective of the CoP. They are included for informational purposes only and are not intended to reflect a preference, approval, or endorsement of any one product or entity.
 
 ## Community Rules, Monitoring, and Enforcement Procedures
 Failure to follow the rules may result in content removal, temporary suspension, or a permanent ban. All violations and enforcement actions will be logged to ensure transparency and to track repeat offenders.
@@ -39,7 +39,7 @@ USDOT will remove comments that:
 USDOT does not discriminate against any views, but reserves the right to remove comments that do not adhere to these standards. All posted comments reflect the views of the author and do not necessarily reflect the views or position of DOT or the Federal government. USDOT will not redact or edit a comment to remove objectionable content, so please ensure that your comment contains none of the above.
 
 ## Communications with the Federal Government
-Communications made through the forum will in no way constitute legal or official notice or comment to the USDOT or any official or employee of USDOT for any purpose. (For example, comments on a USDOT Notice of Proposed Rulemaking (NPRM) must be submitted as directed in the NPRM, not through this forum.) Nor is this blog a place to file a claim, complaint, or any other form of legal or administrative notice.
+Communications made through the forum will in no way constitute legal or official notice or comment to the USDOT or any official or employee of USDOT for any purpose. (For example, comments on a USDOT Notice of Proposed Rulemaking (NPRM) must be submitted as directed in the NPRM, not through this forum.) Nor is this CoP a place to file a claim, complaint, or any other form of legal or administrative notice.
 When posted, the content of all comments and the commenter’s identifier are released into the public domain, so do not submit anything you do not wish to be broadcast to the general public. To protect your own privacy and the privacy of others, please do not include personal contact information or other personally identifiable information in the body of your comment.
 Remember that, as an alternative to using this forum to communicate with USDOT, you may visit the following official USDOT Web site and use the e-mail address, telephone number, and/or mailing address provided there to send communications to USDOT: Home
 https://highways.dot.gov/turner-fairbank-highway-research-center/facility-overview 
