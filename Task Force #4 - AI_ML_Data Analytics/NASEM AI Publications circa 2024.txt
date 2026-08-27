@@ -1,5 +1,0 @@
-National Academies of Sciences, Engineering, and Medicine. Artificial Intelligence Opportunities State and Local DOTs: A Research Roadmap. NCHRP Web-Only Document 403. Washington, DC: TRB. https://www.nationalacademies.org/publications/27865.
-
-National Academies of Sciences, Engineering, and Medicine. Implementing and Leveraging Machine Learning at State Departments of Transportation. NCHRP Web-Only Document 404. Washington, DC: TRB. https://www.nationalacademies.org/publications/27902.
-
-National Academies of Sciences, Engineering, and Medicine. Implementing Machine Learning at State Departments of Transportation: A Guide. NCHRP Research Report 1122. Washington, DC: TRB. https://www.nationalacademies.org/publications/27880.
