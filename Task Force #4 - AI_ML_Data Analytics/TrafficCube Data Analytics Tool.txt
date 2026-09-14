@@ -14,8 +14,8 @@ Bug reports, feature requests, sample datasets, and technical assistance request
 Planned Features
 • Similarity searches.
 • Agentic AI applications.
-• Contributing factor analysis.
 • Before-and-after assessment.
+• Contributing factor analysis.
 • Simulation calibration and validation.
 • Highway Capacity Manual (HCM) methods.
 • Data quality and anomaly identification.
