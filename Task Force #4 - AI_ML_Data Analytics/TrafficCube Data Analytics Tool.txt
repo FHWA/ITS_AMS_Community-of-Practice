@@ -17,8 +17,8 @@ Planned Features
 • Contributing factor analysis.
 • Before-and-after assessment.
 • Simulation calibration and validation.
-• Data quality and anomaly identification.
 • Highway Capacity Manual (HCM) methods.
+• Data quality and anomaly identification.
 • Machine learning and short-term prediction.
 • Pattern recognition and congestion diagnosis.
 • Traffic Analysis Toolbox Volume 3 cluster analysis.
