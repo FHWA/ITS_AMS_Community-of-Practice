@@ -1,0 +1,19 @@
+NCHRP Report 1120 (ATM Planning and Evaluation Guide)
+
+https://www.nationalacademies.org/publications/27871
+
+Chapter 6 of this report presents the following sections:
+
+• The AMS Framework: Presents the analysis, modeling, and simulation framework that can
+guide the ATM assessment process.
+• Modeling Tools and ATM: Discusses how ATM can be integrated with models to help
+different agencies and stakeholders evaluate the various elements needed at the planning,
+design, and operational stages.
+• Data Requirements: Summarizes the type of data required for inclusion in the AMS framework
+for strategy analysis.
+• Calibration and Validation: Highlights the importance of calibration and validation models
+to ensure the results are appropriate.
+• Performance Measures: Presents appropriate performance measures that agencies can use
+to evaluate the potential benefits of ATM and to improve future implementation.
+• Final Remarks: Summarizes key issues related to the analysis, modeling, and simulation of
+ATM for a region, corridor, and facilities.
