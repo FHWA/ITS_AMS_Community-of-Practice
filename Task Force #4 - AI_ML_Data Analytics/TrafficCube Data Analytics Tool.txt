@@ -2,8 +2,8 @@ TrafficCube Data Analytics Tool
 
 https://github.com/dkhale/TrafficCube
 
-Sep 2026: Calculate simple statistics. Allow user to define data types, units, and color schemes for X, Y, and Z axes.
-Aug 2026: Ingest, fuse, and visualize multisource traffic data.
+Sep 2026: Calculate simple statistics. Allow user to customize visualization color schemes and thresholds for each data type. Allow user to customize definitions and units of measurement for the X, Y, and Z axes.
+Aug 2026: Ingest, fuse, and visualize multisource traffic data. Assign default color schemes and units of measurement for typical data types.
 
 TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI to operate on large quantities of well-structured data 
 (e.g., months or years-worth of traffic volumes, probe data, weather data, crash data, vehicle trajectories, traffic analysis tool input and output data).
