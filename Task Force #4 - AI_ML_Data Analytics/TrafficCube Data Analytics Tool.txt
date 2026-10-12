@@ -9,13 +9,15 @@ Development History:
 TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI to operate on large quantities of well-structured data 
 (e.g., months or years-worth of traffic volumes, probe data, weather data, crash data, vehicle trajectories, traffic analysis tool input and output data). 
 Users can download and use the tool at no cost. TrafficCube imports simple CSV files that specify data values for the X and Y axes, and for the Z-axis if needed. 
-To better understand the CSV file format, refer to the demo data files for speed, travel time, weather, incidents, travel time index, or volume. 
+To understand the CSV file format, refer to the demo data files for average speeds, demand volumes, incident crashes, output trips, travel times, and weather severities.
 To download the latest version of the tool, click on "Releases" on the right side of the GitHub window. 
 The plan is to post newer and more powerful versions every month for the foreseeable future. 
 Bug reports, feature requests, sample datasets, and technical assistance requests are welcome.
 
 Planned Features for October 2026:
-• TAT Volume 3 representative day analysis and calibration analysis.
+• Traffic Analysis Toolbox Volume 3 methodology full automation.
+• Demo data upgrades: 2-week data, full-year data, simulation data.
+• Quick jumps to the 0, 25, 50, 75, and 100 percentile day (or scenario).
 • Congestion or crash cause analysis, diagnosis, and visualization (e.g., pie charts).
 
 Planned Features for November 2026 and Beyond:
@@ -26,7 +28,8 @@ Planned Features for November 2026 and Beyond:
 • Simulation calibration and validation.
 • Highway Capacity Manual (HCM) methods.
 • Data quality and anomaly identification.
+• Annual travel time reliability visualizations.
 • Machine learning and short-term prediction.
 • Pattern recognition and congestion diagnosis.
-• Traffic Analysis Toolbox Volume 3 full automation.
+• Users guides, formatted reports, and technical papers.
 • AI-based traffic analysis insights and recommendations.
