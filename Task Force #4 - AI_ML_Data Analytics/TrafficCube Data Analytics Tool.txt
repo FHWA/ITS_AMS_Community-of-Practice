@@ -17,13 +17,12 @@ Bug reports, feature requests, sample datasets, and technical assistance request
 Planned Features for October 2026:
 • Traffic Analysis Toolbox Volume 3 methodology full automation.
 • Demo data upgrades: 2-week data, full-year data, simulation data.
-• Quick jumps to the 0, 25, 50, 75, and 100 percentile day (or scenario).
-• Congestion or crash cause analysis, diagnosis, and visualization (e.g., pie charts).
+• Multi-day analysis features (e.g., before-and-after analyses, travel time reliability analyses).
+• Multi-day statistics and visualizations (e.g., line charts, histograms, probability density functions, cumulative distribution functions).
 
 Planned Features for November 2026 and Beyond:
 • Similarity searches.
 • Agentic AI applications.
-• Before-and-after assessment.
 • Contributing factor analysis.
 • Simulation calibration and validation.
 • Highway Capacity Manual (HCM) methods.
@@ -31,5 +30,6 @@ Planned Features for November 2026 and Beyond:
 • Annual travel time reliability visualizations.
 • Machine learning and short-term prediction.
 • Pattern recognition and congestion diagnosis.
+• Congestion or crash cause analysis and visualization.
 • Users guides, formatted reports, and technical papers.
 • AI-based traffic analysis insights and recommendations.
