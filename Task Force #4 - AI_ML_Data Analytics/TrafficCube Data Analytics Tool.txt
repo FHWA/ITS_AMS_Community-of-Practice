@@ -27,7 +27,6 @@ Planned Features for November 2026 and Beyond:
 • Simulation calibration and validation.
 • Highway Capacity Manual (HCM) methods.
 • Data quality and anomaly identification.
-• Annual travel time reliability visualizations.
 • Machine learning and short-term prediction.
 • Pattern recognition and congestion diagnosis.
 • Congestion or crash cause analysis and visualization.
