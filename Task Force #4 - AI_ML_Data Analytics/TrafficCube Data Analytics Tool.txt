@@ -1,8 +1,10 @@
-TrafficCube Data Analytics Tool
+TrafficCube AI-Based Data Analytics Tool
 
+https://trafficcube.org
 https://github.com/dkhale/TrafficCube
 
 Development History:
+• Oct 2026: Multi-day analysis statistics and visualizations. TAT Volume 3 calibration envelopes. Demo data upgrades.
 • Sep 2026: TAT Volume 3 cluster analysis. Congestion episode screening. Optional customization of X, Y, and Z axis definitions.
 • Aug 2026: Ingest, fuse, and visualize multisource traffic data. Assign default color schemes and units of measurement for typical data types.
 
@@ -10,13 +12,10 @@ TrafficCube is a spatiotemporal traffic analysis platform that seeks to allow AI
 (e.g., months or years-worth of traffic volumes, probe data, weather data, crash data, vehicle trajectories, traffic analysis tool input and output data). 
 Users can download and use the tool at no cost. TrafficCube imports simple CSV files containing data for the X and Y axes, and for the Z-axis when needed.
 To understand format, refer to the demo CSV files for average speeds, demand volumes, incident crashes, output trips, travel times, and weather severities.
-To download the latest version of the tool, click on "Releases" on the right side of the GitHub window. 
-The plan is to post newer and more powerful versions every month for the foreseeable future. 
-Bug reports, feature requests, sample datasets, and technical assistance requests are welcome.
 
 Planned Features for October 2026:
-• Traffic Analysis Toolbox Volume 3 methodology full automation.
 • Demo data upgrades: 2-week data, full-year data, simulation data.
+• Traffic Analysis Toolbox Volume 3 calibration envelopes and alternatives analysis.
 • Multi-day analysis features (e.g., before-and-after analyses, travel time reliability analyses).
 • Multi-day statistics and visualizations (e.g., line charts, histograms, probability density functions, cumulative distribution functions).
 
