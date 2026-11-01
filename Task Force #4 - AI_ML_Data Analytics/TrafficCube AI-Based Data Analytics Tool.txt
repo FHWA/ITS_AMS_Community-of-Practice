@@ -22,6 +22,7 @@ Planned Features:
 • Data quality and anomaly identification.
 • Machine learning and short-term prediction.
 • Pattern recognition and congestion diagnosis.
+• SASCO self-calibration of traffic analysis tools.
 • Congestion or crash cause analysis and visualization.
 • Users guides, formatted reports, and technical papers.
 • AI-based traffic analysis insights and recommendations.
