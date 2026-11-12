@@ -4,6 +4,7 @@ https://trafficcube.org
 https://github.com/dkhale/TrafficCube
 
 Development History:
+• Nov 2026: Embedded intelligence for automated traffic analyses. Optional Bayesian before-and-after analyses.
 • Oct 2026: Multi-day analysis statistics and visualizations. TAT Volume 3 calibration and alternatives analysis. Demo data upgrades.
 • Sep 2026: TAT Volume 3 cluster analysis. Congestion episode screening. Optional customization of X, Y, and Z axis definitions.
 • Aug 2026: Ingest, fuse, and visualize multisource traffic data. Assign default color schemes and units of measurement for typical data types.
